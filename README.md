@@ -1,6 +1,7 @@
 # Tutorial_ObjectDetection_Keras_MaskRCNN
 
-**Dataset Preparation**
+
+## Dataset Preparation
 
 Your dataset directory should contain the following files:
 <br/>
