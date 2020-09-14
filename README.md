@@ -55,8 +55,8 @@ visualize_cv2.py.py<br/>
   4. Update the class_names<br/><br/>
   
 ## References <br/>
-I had modified some parameters and fixed some errors in the original MaskRCNN repository in https://github.com/matterport/Mask_RCNN.git <br/><br/>
-Updated MaskRCNN from my github link: https://github.com/JJLim99/MaskRCNN.git <br/>
-
+- I had modified some parameters and fixed some errors in the original MaskRCNN repository in https://github.com/matterport/Mask_RCNN.git <br/><br/>
+- Updated MaskRCNN from my github link: https://github.com/JJLim99/MaskRCNN.git <br/>
+- labelImg repository link: https://github.com/tzutalin/labelImg
 
     
